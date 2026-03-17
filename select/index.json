@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Sober Up",
+  "base_artist": "AJR",
+  "createdAt": "2026-03-17T05:32:49.679697Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sober Up (feat. Rivers Cuomo)",
+      "artist": "AJR",
+      "has_synced": false,
+      "path": "select/01_Sober_Up_(feat._Rivers_Cuomo)_AJR.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sober Up",
+      "artist": "AJR",
+      "has_synced": false,
+      "path": "select/02_Sober_Up_AJR.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sober Up (feat. Rivers Cuomo)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/03_Sober_Up_(feat._Rivers_Cuomo)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sober Up",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/04_Sober_Up_AJR.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sober Up",
+      "artist": "AJR feat. Rivers Cuomo",
+      "has_synced": true,
+      "path": "select/05_Sober_Up_AJR_feat._Rivers_Cuomo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sober Up (Steve Aoki Remix)",
+      "artist": "AJR feat. Rivers Cuomo",
+      "has_synced": false,
+      "path": "select/06_Sober_Up_(Steve_Aoki_Remix)_AJR_feat._Rivers_Cuomo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sober Up",
+      "artist": "AJR feat. Rivers Cuomo",
+      "has_synced": true,
+      "path": "select/07_Sober_Up_AJR_feat._Rivers_Cuomo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sober Up",
+      "artist": "AJR/Rivers Cuomo",
+      "has_synced": true,
+      "path": "select/08_Sober_Up_AJR_Rivers_Cuomo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sober Up",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/09_Sober_Up_AJR.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sober Up (Party Pupils Remix)",
+      "artist": "AJR feat. Rivers Cuomo & Party Pupils",
+      "has_synced": true,
+      "path": "select/10_Sober_Up_(Party_Pupils_Remix)_AJR_feat._Rivers_Cuomo_&_Party_Pupils.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sober Up (Party Pupils Remix)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/11_Sober_Up_(Party_Pupils_Remix)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sober Up (Ryan Riback Remix)",
+      "artist": "AJR feat. Rivers Cuomo & Ryan Riback",
+      "has_synced": true,
+      "path": "select/12_Sober_Up_(Ryan_Riback_Remix)_AJR_feat._Rivers_Cuomo_&_Ryan_Riback.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sober Up (Ryan Riback Remix)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/13_Sober_Up_(Ryan_Riback_Remix)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sober Up (Steve Aoki Remix)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/14_Sober_Up_(Steve_Aoki_Remix)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sober Up",
+      "artist": "AJR; Rivers Cuomo feat. Rivers Cuomo",
+      "has_synced": true,
+      "path": "select/15_Sober_Up_AJR;_Rivers_Cuomo_feat._Rivers_Cuomo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Don't Want To Sober Up Tonight",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/16_I_Don't_Want_To_Sober_Up_Tonight_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sober Up",
+      "artist": "Toccatatones",
+      "has_synced": false,
+      "path": "select/17_Sober_Up_Toccatatones.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sober Up (feat. Rivers Cuomo)",
+      "artist": "Toccatatones",
+      "has_synced": false,
+      "path": "select/18_Sober_Up_(feat._Rivers_Cuomo)_Toccatatones.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sober Up",
+      "artist": "Gus Dapperton",
+      "has_synced": true,
+      "path": "select/19_Sober_Up_Gus_Dapperton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sober Up",
+      "artist": "AJR",
+      "has_synced": false,
+      "path": "select/pl_01_Sober_Up_AJR.txt"
+    }
+  ]
+}
